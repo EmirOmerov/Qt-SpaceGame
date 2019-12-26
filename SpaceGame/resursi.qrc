@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>images/player.png</file>
+        <file>images/asteroid.png</file>
+        <file>images/bullet1.png</file>
+    </qresource>
+    <qresource prefix="/new/sounds">
+        <file>sounds/pozadina.mp3</file>
+        <file>sounds/raketa.mp3</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/player(1).png</file>
+        <file>images/nova.png</file>
+    </qresource>
+</RCC>

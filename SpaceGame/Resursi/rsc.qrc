@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resc">
+        <file>celzi.gif</file>
+        <file>manutd.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../untitled1/Sport.db</file>
+    </qresource>
+</RCC>
